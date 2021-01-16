@@ -1,7 +1,6 @@
 {
   "name": "u-develop-it",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -27,5 +26,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "sqlite3": "^5.0.1"
-  }
+  },
+  "description": ""
 }
